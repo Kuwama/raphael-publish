@@ -24,7 +24,11 @@
 
 每套主题在背景色、字体、标题、代码块、引用、表格等元素上都有独立设计，切换即可感受完全不同的排版风格。
 
-![Raphael Publish 演示](media/record.gif)
+
+
+<video src="media/demo.mp4" controls muted playsinline width="100%"></video>
+
+> 如果当前平台不支持内嵌视频播放器，可直接观看：[演示视频 MP4](media/demo.mp4)
 
 ### 一键复制到公众号
 
